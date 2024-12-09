@@ -1,10 +1,10 @@
 import './App.css';
-import Services from './components/Home/Services'
+import UserReg from './components/Home/UserReg'
 
 function App() {
   return (
     <>
-    <Services/> 
+    <UserReg/> 
     </>
   );
 }
