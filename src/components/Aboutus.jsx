@@ -20,24 +20,12 @@ function Aboutus() {
                 </p></div>
             <div className='aboutus-third-main'>
                 <div className='aboutus-button-one d-flex align-items-center justify-content-center'>
-                    <a href="">Learn more</a>
-                </div>
-                <div className='aboutus-img-txt-one d-flex flex-column align-items-center mt-5'>
-                    <h4 style={{ color: '#FFFFFF' }}>Our Promise</h4>
-                    <p style={{ color: '#FFFFFF' }}>We promise to be your trusted partner in navigating the digital landscape, empowering your business with smart, personalized solutions that not only meet today’s challenges but also lay a strong foundation for your future success.</p>
-                </div>
-                <div className='aboutus-img-txt-two d-flex flex-column align-items-center'>
-                    <h4 style={{ color: '#FFFFFF' }}>Our Dream</h4>
-                    <p style={{ color: '#FFFFFF' }}>We envision a future where businesses flourish in the digital age, driven by innovative strategies and solutions that create pathways to lasting success and prosperity.</p>
-                </div>
-                <div className='aboutus-button-three d-flex align-items-center justify-content-center' style={{marginTop:'0px'}}>
-                    <a href="">Know more</a>
-                </div>
+                    <a href="/">Learn more</a>
+                </div>              
             </div>
             <div className='aboutus-button-two d-flex align-items-center justify-content-center'>
-                    <a href="">Request a call from us!</a>
+                    <a href="/">Request a call from us!</a>
                 </div>
-
         </>
     )
 }
