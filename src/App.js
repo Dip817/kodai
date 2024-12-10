@@ -1,10 +1,11 @@
 import './App.css';
-import UserReg from './components/Home/UserReg'
+import Aboutus from './components/Aboutus';
+
 
 function App() {
   return (
     <>
-    <UserReg/> 
+    <Aboutus/> 
     </>
   );
 }
