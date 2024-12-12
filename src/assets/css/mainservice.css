@@ -1,0 +1,19 @@
+.service-maindiv-one p{
+    color: #FFFFFF;
+    text-align: center;
+}
+.service-maindiv{
+    color:#FFFFFF;
+}
+.service-maindiv-two{
+    gap: 12px;
+}
+.service-maindiv-three{
+    width: 80%;
+    height: 400px;
+    overflow: hidden;
+}
+.service-maindiv-three img{
+    object-fit: cover;
+}
+

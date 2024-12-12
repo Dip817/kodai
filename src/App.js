@@ -1,11 +1,11 @@
 import './App.css';
-import Aboutus from './components/Aboutus';
+import Mainservice from './components/Home/Mainservice';
 
 
 function App() {
   return (
     <>
-    <Aboutus/> 
+    <Mainservice/> 
     </>
   );
 }
