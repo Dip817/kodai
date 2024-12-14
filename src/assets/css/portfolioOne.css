@@ -1,0 +1,24 @@
+.portfolio-main{
+    background-color: black;
+}
+.portfolio-main-card div{
+background-color: green;
+width:30%;
+height: 320px;
+border-radius: 25px;
+padding: 0;
+}
+.portfolio-main-card{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+a img{
+    width: 100%;
+    height: 320px;
+    border-radius: 25px;
+}
+.portfolio-main-button Link{
+    text-decoration: none !important;
+    color:white;
+}

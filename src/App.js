@@ -1,11 +1,20 @@
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
-import Mainservice from './components/Home/Mainservice';
+import PortfolioOne from './components/Home/PortfolioOne';
 
 
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: '/',
+      element: <>
+        <PortfolioOne/>
+      </>
+    }
+  ])
   return (
     <>
-    <Mainservice/> 
+    <RouterProvider router={router}/>
     </>
   );
 }
