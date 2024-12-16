@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
-import PortfolioTwo from './components/Home/PortfolioTwo';
+import PortfolioOne from './components/Home/PortfolioOne';
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     {
       path: '/',
       element: <>
-        <PortfolioTwo/>
+        <PortfolioOne/>
       </>
     }
   ])

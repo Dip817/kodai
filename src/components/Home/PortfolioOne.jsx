@@ -12,7 +12,7 @@ function Portfolio() {
           <p style={{ color: '#FFFFFF' }}>We will help you get started with your account marketplace
             registration.</p>
         </div>
-        <div className='portfolio-main-card row'>
+        <div className='portfolio-main-card row d-flex justify-content-around'>
           <div className='col-lg-4 col-md-4 col-sn-12'>
             <Link to='/'>
               <img src={cardoneimg} alt='' />
@@ -29,7 +29,7 @@ function Portfolio() {
             </Link>
           </div>
         </div>
-        <div classname='portfolio-main-button d-flex justify-content-center align-items-center'>
+        <div classname='portfolio-main-button' style={{marginTop:'3%',display:'flex',justifyContent:'center'}}>
           <Link className='' to='/' style={{ textDecoration: 'none', color: 'white', border: '1px solid #004C4C', padding: '2px 15px 2px 15px', backgroundColor: 'black', borderRadius: '5px',alignItems:'center',textAlign:'center' }}>Check Now</Link>
         </div>
       </div>

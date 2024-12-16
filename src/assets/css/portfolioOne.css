@@ -2,7 +2,7 @@
     background-color: black;
 }
 .portfolio-main-card div{
-background-color: green;
+background-color: teal;
 width:30%;
 height: 320px;
 border-radius: 25px;
@@ -18,12 +18,4 @@ a img{
     height: 320px;
     border-radius: 25px;
 }
-.portfolio-main-button{
-    justify-content: center;
-    display: flex ;
-    text-align: center;
-    align-items: center;
-}
-.portfolio-main-button Link{
-    text-align: center;
-}
+
