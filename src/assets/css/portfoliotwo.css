@@ -1,0 +1,30 @@
+.portfoliotwo-card-sectone{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+.portfoliotwo-card-sectone div{
+    background-color: teal;
+    width:30%;
+    height: 320px;
+    border-radius: 25px;
+    padding: 0;
+}
+.portfoliotwo-card-sectwo{
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 3%;
+}
+.portfoliotwo-card-sectwo div{
+    background-color: teal;
+    width:30%;
+    height: 320px;
+    border-radius: 25px;
+    padding: 0;
+}
+a img{
+    width: 100%;
+    height: 320px;
+    border-radius: 25px;
+}
