@@ -18,7 +18,12 @@ a img{
     height: 320px;
     border-radius: 25px;
 }
+.portfolio-main-button{
+    justify-content: center;
+    display: flex ;
+    text-align: center;
+    align-items: center;
+}
 .portfolio-main-button Link{
-    text-decoration: none !important;
-    color:white;
+    text-align: center;
 }

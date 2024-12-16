@@ -15,22 +15,22 @@ function Portfolio() {
         <div className='portfolio-main-card row'>
           <div className='col-lg-4 col-md-4 col-sn-12'>
             <Link to='/'>
-              <img src={cardoneimg} alt=''/>
+              <img src={cardoneimg} alt='' />
             </Link>
           </div>
           <div className='col-lg-4 col-md-4 col-sn-12'>
             <Link to='/'>
-              <img src={cardoneimg} alt=''/>
+              <img src={cardoneimg} alt='' />
             </Link>
           </div>
           <div className='col-lg-4 col-md-4 col-sn-12'>
             <Link to='/'>
-              <img src={cardoneimg} alt=''/>
+              <img src={cardoneimg} alt='' />
             </Link>
           </div>
         </div>
         <div classname='portfolio-main-button d-flex justify-content-center align-items-center'>
-          <Link className='' to='/' style={{textDecoration:'none', color:'white'}}>Check Now</Link>
+          <Link className='' to='/' style={{ textDecoration: 'none', color: 'white', border: '1px solid #004C4C', padding: '2px 15px 2px 15px', backgroundColor: 'black', borderRadius: '5px',alignItems:'center',textAlign:'center' }}>Check Now</Link>
         </div>
       </div>
 
