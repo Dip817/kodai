@@ -1,8 +1,17 @@
 .form-input{
-    width: 60%;
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 12px;
 }
 .form-input p{
-    color: #FFFFFF;
-    padding-left: 10%;
+    color: white;    
 }
+input{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 12px;
+    border-bottom: 2px solid white !important;
+}
+
+
 

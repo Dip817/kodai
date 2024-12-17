@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
-import Portfolio from './components/Home/Portfolio';
+import Form from './components/Form';
 
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     {
       path: '/',
       element: <>
-        <Portfolio/>
+        <Form/>
       </>
     }
   ])

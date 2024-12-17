@@ -5,8 +5,8 @@ function Form() {
     <>
     <div className='form-main' style={{backgroundColor:'black'}}>
     <div className='form-input'>
-        <p>Need A Customized Plan?
-        Share you details to get a call back from us</p>
+        <p>Need A Customized Plan?</p>
+       <p> Share you details to get a call back from us</p>
     </div>
     <div class='form-container'>
     
@@ -21,7 +21,6 @@ function Form() {
       <input type="tel" id="phone" name="phone"required style={{backgroundColor:'transparent',border:'none'}}></input>
     </form>
   </div>
-
     </div>
     </>
   )
