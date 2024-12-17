@@ -30,7 +30,7 @@ function Portfolio() {
           </div>
         </div>
         <div classname='portfolio-main-button' style={{ marginTop: '3%', display: 'flex', justifyContent: 'center' }}>
-          <Link className='' to='/' style={{ textDecoration: 'none', color: 'white', border: '1px solid #004C4C', padding: '2px 15px 2px 15px', backgroundColor: 'black', borderRadius: '5px', alignItems: 'center', textAlign: 'center' }}>Check Now</Link>
+          <Link className='' to='/' style={{ textDecoration: 'none', color: 'white', border: '1px solid #004C4C', padding: '5px 30px 5px 30px', backgroundColor: 'black', borderRadius: '5px', alignItems: 'center', textAlign: 'center' }}>Check Now</Link>
         </div>
       </div>
 
