@@ -4,13 +4,21 @@
     margin-top: 12px;
 }
 .form-input p{
-    color: white;    
+    color: white;
+    font-size:medium;  
+    font-family: "Anonymous Pro", serif;
+     
 }
 input{
     width: 70%;
     margin-left: 10%;
     margin-top: 12px;
     border-bottom: 2px solid white !important;
+    font-size: medium;
+    margin-bottom: 12px;
+}
+label{
+    font-family: "Anonymous Pro", serif;
 }
 
 
